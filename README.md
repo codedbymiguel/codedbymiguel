@@ -1,6 +1,6 @@
 <!-- Banner principal -->
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=header&reversal=false&text=Tochika%20Studios&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=000&strokeWidth=2&descSize=20&descAlign=50&descAlignY=50&color=953F24"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=header&reversal=false&text=Tochika%20Studios&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=000&strokeWidth=2&descSize=20&descAlign=50&descAlignY=50&color=#00008B"  />
 </div>
 
 </p>
@@ -10,9 +10,16 @@
 
 ---
 ### <p align="center"> ⚙️ Abilities ⚙️ </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,discord,html,css" />
-</p>
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
@@ -27,7 +34,12 @@
 
 ### <p align="center"> ⚔️ About me ⚔️ </p>
 <p align="center">
-Hi, I'm Miguel. I'm an indie game developer, student, and programmer. I've been working on a few projects and am learning C++ and Python. My current projects are 2D and 3D games at a studio called Tochika Studios.
+Hello! I'm Miguel, a developer passionate about technology, design, and games.
+I'm one of the programmers at Tochika Studios, an independent studio dedicated to creating unique, immersive, and creative gaming experiences.
+Tochika Studios was founded with the purpose of transforming original ideas into remarkable games—combining narrative, art, and gameplay to deliver something truly special.
+We focus on innovation, artistic quality, and emotional immersion, always striving to bring a unique and independent touch to each project.
+We are currently developing our first titles, exploring mechanics, stories, and worlds that inspire and challenge players.
+If you also believe in the power of games as a form of art and expression, Tochika Studios is the place for you.
 </p>
 
 ---
