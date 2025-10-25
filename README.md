@@ -1,5 +1,6 @@
 <!-- Banner principal -->
-<div>
+# 🎮 Tochika Studios
+<div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=header&reversal=false&text=Tochika%20Studios&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=000&strokeWidth=2&descSize=20&descAlign=50&descAlignY=50&color=#00008B"  />
 </div>
 
